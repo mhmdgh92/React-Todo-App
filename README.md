@@ -4,7 +4,10 @@ A full-featured demo Todo application showcasing a **modern React stack**:
 
 ## 🎥 App Demo
 
-![App Demo](./demo/demo.gif)
+<p align="center">
+  <img src="./demo/demo.gif" alt="App Demo"/>
+</p>
+<br/>
 
 - ⚡ [Next.js 14 (App Router)](https://nextjs.org/) for frontend + backend (API routes)
 - 🔄 [React Query](https://tanstack.com/query/latest) for server state management (fetching, caching, mutations)
